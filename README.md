@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any interesting and challenging project
 - 📫 How to reach me: https://www.linkedin.com/in/danilo-souza-reis-ab61761b6/
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm brazillian!
+- ⚡ Fun fact: I have a black power!
 
 <!---
 Danilo-Reiss/Danilo-Reiss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
