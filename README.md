@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Danilo-Reiss
-- 👀 I’m interested in creating functional projects
+- 👀 I’m interested in data science!
 - 🌱 I’m currently learning agile culture, C language, Linux for developers and Git & GitHub
 - 💞️ I’m looking to collaborate on any interesting and challenging project
 - 📫 How to reach me: https://www.linkedin.com/in/danilo-souza-reis-ab61761b6/
