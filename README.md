@@ -17,7 +17,7 @@ Atualmente estou cursando uma graduação em Análise e Desenvolvimento de Siste
 
 **💼 Experiências profissionais:**  
 
-O Programa de Bolsas da Compass UOL foi um programa que participei em parceria com a minha instituição de ensino superior. Durante 5 meses, frequentei uma trilha de cursos com foco na área de engenharia/análise de dados. O programa como um todo foi desenvolvido baseado no método Scrum de metodologia ágil. A stack de tecnologias aprendidas e desenvolvidas por meio de atividades e desafios foram divididas em sprints de duas semanas, sendo a sprint 6 até a sprint 10 reservadas para um desafio final utilizando ferramentas da AWS e simulando um workflow real da empresa. Maiores detalhes estão localizados no meu perfil no [Linkedin](https://www.linkedin.com/in/danilo-souza-reis-ab61761b6/).  
+O Programa de Bolsas da Compass UOL foi um programa que participei em parceria com a minha instituição de ensino superior. Durante 5 meses, frequentei uma trilha de cursos com foco na área de engenharia/análise de dados. O programa como um todo foi desenvolvido baseado no método Scrum de metodologia ágil. A stack de tecnologias aprendidas e desenvolvidas por meio de atividades e desafios foram divididas em sprints de duas semanas, sendo a sprint 6 até a sprint 10 reservadas para um desafio final utilizando ferramentas da AWS e simulando um workflow real da empresa. Maiores detalhes estão localizados no meu perfil no [Linkedin](https://www.linkedin.com/in/danilo-souza-reis-ab61761b6/) e no [repositório](https://github.com/Danilo-Reiss/AWS-Cloud-Data-Engineering). 
 
 ## Linguagens  
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Danilo-Reiss&layout=compact)](https://github.com/Danilo-Reiss)
