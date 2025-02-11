@@ -11,9 +11,9 @@
 [![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)](https://github.com/Danilo-Reiss)
 
 ## About Me  
-***🚀 Análise e Desenvolvimento de Sistemas 3/6 | Análise e Engenharia de Dados | Cloud Computing 🚀***  
+***🚀 Análise e Desenvolvimento de Sistemas 4/6 | Análise e Engenharia de Dados | Cloud Computing 🚀***  
   
-Atualmente estou cursando uma graduação em Análise e Desenvolvimento de Sistemas e desenvolvendo competências para atuar na área de dados. Tenho experiência com Linux (Shell Script), Python (Pandas, Numpy, Matplotlib), SQL (PostgreSQL, SQLite, MySQL, MySQL Workbench), Spark com PySpark, Docker (Kubernetes), Power BI e com algumas ferramentas da AWS, como AWS EC2, AWS Lambda, AWS Glue, AWS Athena e AWS Quicksight.  
+Atualmente estou cursando uma graduação em Análise e Desenvolvimento de Sistemas e desenvolvendo competências para atuar na área de dados. Tenho experiência com Linux (Shell Script), Python (Pandas, Numpy, Matplotlib), SQL (PostgreSQL, SQLite, MySQL, MySQL Workbench), Spark com PySpark, Docker (Kubernetes), com algumas ferramentas da AWS, como AWS EC2, AWS Lambda, AWS Glue, AWS Athena e AWS Quicksight e da Microsoft Power Platform, como Power Apps, Power Automate e Power BI.  
 
 **💼 Experiências profissionais:**  
 
