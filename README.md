@@ -1,6 +1,7 @@
 # Danilo Souza Reis  
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilo-souza-reis-ab61761b6/)](https://www.linkedin.com/in/danilo-souza-reis-ab61761b6/)  
+  
+<img src="./octocat.png" alt="octocat pfp" height="250" weight="250"/>  
 
 ## Tecnologias  
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/Danilo-Reiss)
