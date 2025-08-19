@@ -11,14 +11,14 @@
 [![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/Danilo-Reiss)
 [![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)](https://github.com/Danilo-Reiss)
 
-## About Me  
-***🚀 Análise e Desenvolvimento de Sistemas 4/6 | Análise e Engenharia de Dados | Cloud Computing 🚀***  
+## Sobre Mim  
+***🚀 Análise e Desenvolvimento de Sistemas 5/6 | Análise e Engenharia de Dados | Cloud Computing 🚀***  
   
 Atualmente estou cursando uma graduação em Análise e Desenvolvimento de Sistemas e desenvolvendo competências para atuar na área de dados. Tenho experiência com Linux (Shell Script), Python (Pandas, Numpy, Matplotlib), SQL (PostgreSQL, SQLite, MySQL, MySQL Workbench), Spark com PySpark, Docker (Kubernetes), com algumas ferramentas da AWS, como AWS EC2, AWS Lambda, AWS Glue, AWS Athena e AWS Quicksight e da Microsoft Power Platform, como Power Apps, Power Automate e Power BI.  
 
 **💼 Experiências profissionais:**  
 
-O Programa de Bolsas da Compass UOL foi um programa que participei em parceria com a minha instituição de ensino superior. Durante 5 meses, frequentei uma trilha de cursos com foco na área de engenharia/análise de dados. O programa como um todo foi desenvolvido baseado no método Scrum de metodologia ágil. A stack de tecnologias aprendidas e desenvolvidas por meio de atividades e desafios foram divididas em sprints de duas semanas, sendo a sprint 6 até a sprint 10 reservadas para um desafio final utilizando ferramentas da AWS e simulando um workflow real da empresa. Maiores detalhes estão localizados no meu perfil no [Linkedin](https://www.linkedin.com/in/danilo-souza-reis-ab61761b6/) e no [repositório](https://github.com/Danilo-Reiss/AWS-Cloud-Data-Engineering). 
+Durante 5 meses, participei do Programa de Bolsas da Compass UOL, um programa intensivo de estágio em Engenharia e Análise de Dados na AWS. Através de uma trilha de aprendizado estruturada em metodologia Scrum, completei cursos e desafios práticos. No projeto final, aplicando os conhecimentos adquiridos ao longo do programa, utilizei ferramentas da AWS para criar um fluxo de pipeline de dados real. Todo o planejamento do PB está detalhado em anexo. Maiores detalhes estão localizados no meu perfil no [Linkedin](https://www.linkedin.com/in/danilo-souza-reis-ab61761b6/) e no [repositório](https://github.com/Danilo-Reiss/AWS-Cloud-Data-Engineering). 
 
 ## Linguagens  
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Danilo-Reiss&layout=compact)](https://github.com/Danilo-Reiss)
